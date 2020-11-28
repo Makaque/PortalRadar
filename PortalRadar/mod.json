@@ -1,0 +1,6 @@
+{
+  "id": "ca.mktsk.modsenfree.portalradar",
+  "enabled": true,
+  "displayName": "Portal Radar",
+  "assemblyName": "PortalRadar.dll"
+}
